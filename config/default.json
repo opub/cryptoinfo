@@ -1,0 +1,8 @@
+{
+    "protocols": [
+        "bsc",
+        "matic"
+    ],
+    "wallets": [],
+    "api_key": ""
+}

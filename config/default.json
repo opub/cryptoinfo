@@ -1,7 +1,8 @@
 {
-    "protocols": [
+    "chains": [
         "bsc",
-        "matic"
+        "matic",
+        "ethereum"
     ],
     "wallets": [],
     "api_key": ""
